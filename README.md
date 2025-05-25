@@ -1,5 +1,5 @@
 # Hello!👋🏻 Ashish here!!
-👨‍💻 Full-Stack Engineer & AI Product Developer focused on NLP and data visualization<br>⚙️ Proficient in React.js, Node.js, MongoDB, PostgreSQL, and modern web technologies<br>🤖 Passionate about AI, automating tasks, and 3D design/printing<br>⚽ Enjoys football and staying up-to-date with the latest in tech
+👨‍💻DevOps engineer at smarttrakAI<br>⚙️ Proficient in React.js, Node.js, MongoDB, PostgreSQL, and modern web technologies<br>🤖 Passionate about AI, automating tasks, and 3D design/printing<br>⚽ Enjoys football and staying up-to-date with the latest in tech
 
 
 ## 🌐 Socials:
